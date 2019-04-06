@@ -1,0 +1,24 @@
+{
+  "name": "node_sql",
+  "version": "1.0.0",
+  "description": "hotel mangment\u001b[D\u001b[D\u001b[D\u001b[De\u001b[C\u001b[nagement ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamiraAlmatar/hotel_management.git"
+  },
+  "author": "Samira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamiraAlmatar/hotel_management/issues"
+  },
+  "homepage": "https://github.com/SamiraAlmatar/hotel_management#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pg": "^7.9.0"
+  }
+}
